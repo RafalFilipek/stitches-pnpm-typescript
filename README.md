@@ -8,4 +8,4 @@ The inferred type of 'css' cannot be named without a reference to '.pnpm/@stitch
 
 Fun fact. If I remvoe `declaration` and `declarationMap` from `tsconfig.json` there is no error.
 
-It works with Yarn.
+~~It works with Yarn.~~
